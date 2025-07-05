@@ -1,0 +1,19 @@
+.container{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.sub-1,.sub-2,.sub-3,.sub-4{
+    width: 22.5%;
+    display: inline-block;
+    padding-right: 20px;
+}
+
+img{
+    width: 100%;
+}
+
+h3,p{
+    text-align: center;
+}
